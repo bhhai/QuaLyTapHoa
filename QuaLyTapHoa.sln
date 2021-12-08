@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyTapHoa", "MedicalManagement\QuanLyTapHoa.csproj", "{7C0E32C9-65B9-404B-8A92-E410A73BFF78}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{42C1748C-0877-4581-BC47-371C30C5D0D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C0E32C9-65B9-404B-8A92-E410A73BFF78}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0E32C9-65B9-404B-8A92-E410A73BFF78}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7C0E32C9-65B9-404B-8A92-E410A73BFF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0E32C9-65B9-404B-8A92-E410A73BFF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C1748C-0877-4581-BC47-371C30C5D0D7}.Debug|Any CPU.ActiveCfg = Debug
+		{42C1748C-0877-4581-BC47-371C30C5D0D7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A480FDF0-048F-4FA4-B033-E909F4D588DE}
+	EndGlobalSection
+EndGlobal
